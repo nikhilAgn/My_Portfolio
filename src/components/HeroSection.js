@@ -1,8 +1,11 @@
 import React from 'react'
+import { BsLinkedin } from "react-icons/bs";
+import { FaGithub } from "react-icons/fa";
 
+import { SiLeetcode } from "react-icons/si";
 export const HeroSection = () => {
     return (
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"> 
             <div class="text-center py-16">
                 <h1 class="text-5xl font-bold">Portfolio</h1>
                 <div class="mt-8">
@@ -33,14 +36,14 @@ export const HeroSection = () => {
                         </div>
                         <h3 class="text-xl font-bold mt-6 mb-4">PROFILE LINKS</h3>
                         <div class="flex gap-4 justify-center">
-                            <a href="#" class="bg-zinc-700 p-3 rounded-full">
-                                <img src="https://placehold.co/24x24" alt="LinkedIn" />
+                            <a href="https://www.linkedin.com/in/niagn/" class="bg-zinc-700 p-5 rounded-full ">
+                                <BsLinkedin size={30} />
                             </a>
-                            <a href="#" class="bg-zinc-700 p-3 rounded-full">
-                                <img src="https://placehold.co/24x24" alt="GitHub" />
+                            <a href="https://github.com/nikhilAgn" class="bg-zinc-700 p-5  rounded-full">
+                                <FaGithub size={30} />
                             </a>
-                            <a href="#" class="bg-zinc-700 p-3 rounded-full">
-                                <img src="https://placehold.co/24x24" alt="Website" />
+                            <a href="https://leetcode.com/andbynikhil/" class="bg-zinc-700 p-5 rounded-full">
+                                <SiLeetcode size={30} />
                             </a>
                         </div>
                     </div>

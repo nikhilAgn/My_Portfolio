@@ -12,19 +12,17 @@ export const HeroSection = () => {
                     <img src="https://placehold.co/150x150" alt="Profile " class="rounded-full mx-auto" />
                 </div>
                 <h2 class="text-3xl font-bold mt-4">Nikhil Agnihotri</h2>
-                <p class="text-sm mt-2">ICPC 2021-22 Regionalist | Software and Integrations Developer ...</p>
+                <p class="text-sm mt-2">Android Developer | Software and Integrations Developer ...</p>
                 <div class="bg-zinc-800 mx-auto mt-8 p-4 w-3/4">
                     <div class="bg-zinc-800 text-white p-6 max-w-4xl mx-auto rounded-lg text-center">
                         <h2 class="text-xl font-bold mb-4">BIO</h2>
                         <p>
                             I am a passionate programmer with approximately 3 years of coding experience. Moreover, I am
-                            currently pursuing Bachelors in Information Technology at Pimpri Chinchwad College of
-                            Engineering in Pune. I've a good coding experience in domains such as C++, Flutter and I am
+                            currently pursuing Bachelors in Information Technology at Dr. Rammanohar Lohia Avadh University Ayodhya. I've a good coding experience in domains such as C++, Flutter and I am
                             currently exploring Firebase and Flutter.
                         </p>
                         <p class="mt-4">
-                            <strong>Working status</strong><br />Software and Integrations Developer at Data Insights DWC
-                            LLC
+                            <strong>Experience</strong><br />App Development Internship at EISYSTEMS SERVICES
                         </p>
                         <div class="flex gap-2 mt-4 justify-center">
                             <span class="bg-zinc-700 px-4 py-1 rounded">C++</span>

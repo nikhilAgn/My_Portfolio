@@ -1,11 +1,11 @@
 import React from 'react'
 import { BsLinkedin } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa";
-
+import './css/Hero.css'
 import { SiLeetcode } from "react-icons/si";
 export const HeroSection = () => {
     return (
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"> 
+        <div class=" mx-auto px-4 w-full sm:max-w-7xl width-full lg:px-8"> 
             <div class="text-center py-16">
                 <h1 class="text-5xl font-bold">Portfolio</h1>
                 <div class="mt-8">
@@ -13,8 +13,8 @@ export const HeroSection = () => {
                 </div>
                 <h2 class="text-3xl font-bold mt-4">Nikhil Agnihotri</h2>
                 <p class="text-sm mt-2">Android Developer | Software and Integrations Developer ...</p>
-                <div class="bg-zinc-800 mx-auto mt-8 p-4 w-3/4">
-                    <div class="bg-zinc-800 text-white p-6 max-w-4xl mx-auto rounded-lg text-center">
+                <div class="bg-zinc-800 mx-0 sm:mx-auto mt-8 p-4 sm:w-3/4">
+                    <div class="bg-zinc-800 text-white md:p-6 max-w-4xl mx-auto rounded-lg text-center">
                         <h2 class="text-xl font-bold mb-4">BIO</h2>
                         <p>
                             I am a passionate programmer with approximately 3 years of coding experience. Moreover, I am
@@ -24,7 +24,7 @@ export const HeroSection = () => {
                         <p class="mt-4">
                             <strong>Experience</strong><br />App Development Internship at EISYSTEMS SERVICES
                         </p>
-                        <div class="flex gap-2 mt-4 justify-center">
+                        <div class="flex gap-2 mt-4 justify-center mainskill ">
                             <span class="bg-zinc-700 px-4 py-1 rounded">C++</span>
                             <span class="bg-zinc-700 px-4 py-1 rounded">Flutter</span>
                             <span class="bg-zinc-700 px-4 py-1 rounded">Firebase</span>

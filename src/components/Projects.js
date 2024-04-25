@@ -15,7 +15,7 @@ export const Projects = () => {
                                 </button>
                             </div>
                         </div>
-                        <div className="w-full md:w-1/2 p-4      rounded-lg">
+                        <div className="w-full md:w-1/2 p-4 rounded-lg">
                             <h3 className="text-lg font-semibold text-zinc-900 dark:text-white">Project Name</h3>
                             <p className="text-zinc-600 dark:text-zinc-300 mt-1">This is my project which s klsjdf;laksjdf;lkajs;ldfk lasdkf;lkjasdj;flkjasdas asdfasldkfja;lskdjflka asdf;laksjdlf;kjasld;fjf</p>
                         </div>

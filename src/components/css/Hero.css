@@ -1,4 +1,13 @@
-
+/* skill css */
+.logoOuter{
+    div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+}
 
 @media (max-width:800px) {
     .mainskill{

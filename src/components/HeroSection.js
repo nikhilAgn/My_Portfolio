@@ -6,7 +6,7 @@ export const HeroSection = () => {
             <div class="text-center py-16">
                 <h1 class="text-5xl font-bold">Portfolio</h1>
                 <div class="mt-8">
-                    <img src="https://placehold.co/150x150" alt="Profile Image" class="rounded-full mx-auto" />
+                    <img src="https://placehold.co/150x150" alt="Profile " class="rounded-full mx-auto" />
                 </div>
                 <h2 class="text-3xl font-bold mt-4">Nikhil Agnihotri</h2>
                 <p class="text-sm mt-2">ICPC 2021-22 Regionalist | Software and Integrations Developer ...</p>

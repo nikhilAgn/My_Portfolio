@@ -9,7 +9,7 @@ export const Projects = () => {
                     <div className="flex flex-col md:flex-row items-center">
                         <div className="w-full md:w-1/2">
                             <div className="relative">
-                                <img src="https://placehold.co/500x280" alt="Project Image" className="w-full rounded-lg" />
+                                <img src="https://placehold.co/500x280" alt="not found" className="w-full rounded-lg" />
                                 <button className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-blue-600 dark:bg-blue-800 bg-opacity-75 text-white w-12 h-12 rounded-full flex items-center justify-center">
                                     <span className="material-icons">play_arrow</span>
                                 </button>
@@ -24,7 +24,7 @@ export const Projects = () => {
                     <div className="flex flex-col md:flex-row-reverse items-center">
                         <div className="w-full md:w-1/2">
                             <div className="relative">
-                                <img src="https://placehold.co/500x280" alt="Project Image" className="w-full rounded-lg" />
+                                <img src="https://placehold.co/500x280" alt="not found" className="w-full rounded-lg" />
                                 <button className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-blue-600 dark:bg-blue-800 bg-opacity-75 text-white w-12 h-12 rounded-full flex items-center justify-center">
                                     <span className="material-icons">play_arrow</span>
                                 </button>
@@ -39,7 +39,7 @@ export const Projects = () => {
                     <div className="flex flex-col md:flex-row items-center">
                         <div className="w-full md:w-1/2">
                             <div className="relative">
-                                <img src="https://placehold.co/500x280" alt="Project Image" className="w-full rounded-lg" />
+                                <img src="https://placehold.co/500x280" alt="not found" className="w-full rounded-lg" />
                                 <button className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-blue-600 dark:bg-blue-800 bg-opacity-75 text-white w-12 h-12 rounded-full flex items-center justify-center">
                                     <span className="material-icons">play_arrow</span>
                                 </button>
@@ -54,7 +54,7 @@ export const Projects = () => {
                     <div className="flex flex-col md:flex-row-reverse items-center">
                         <div className="w-full md:w-1/2">
                             <div className="relative">
-                                <img src="https://placehold.co/500x280" alt="Project Image" className="w-full rounded-lg" />
+                                <img src="https://placehold.co/500x280" alt="not found" className="w-full rounded-lg" />
                                 <button className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-blue-600 dark:bg-blue-800 bg-opacity-75 text-white w-12 h-12 rounded-full flex items-center justify-center">
                                     <span className="material-icons">play_arrow</span>
                                 </button>

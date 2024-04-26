@@ -5,7 +5,7 @@ import './css/Hero.css'
 import { SiLeetcode } from "react-icons/si";
 export const HeroSection = () => {
     return (
-        <div class=" w-full width-full  ">
+        <div id='about' class=" w-full width-full  ">
             <div class="text-center py-16">
                 <h1 class="text-5xl font-bold">Portfolio</h1>
                 <div class="bg-zinc-300 rounded-lg mx-0 sm:mx-auto mt-8 p-4 sm:w-3/4 ">
